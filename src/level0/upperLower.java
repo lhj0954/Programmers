@@ -17,6 +17,8 @@ public class upperLower {
                 answer += Character.toUpperCase(c);
             }
         }
+
+        sc.close();
         
         System.out.println(answer);
     }
